@@ -48,3 +48,12 @@ textpython -m pytest --cov=src tests/ --cov-report=html
 Abra htmlcov/index.html no navegador.
 
 Obs: como eu tive alguns problemas no meu Noteboock eu Compactei ele e enviei, Sinceramente terminei ficando com toque ao crialo.
+
+
+Imagens pedidas:
+
+<img width="1440" height="416" alt="Captura de tela 2025-10-07 180831" src="https://github.com/user-attachments/assets/c950e469-aedb-41ca-964c-21382bad1330" />
+
+<img width="57" height="15" alt="Captura de tela 2025-10-07 180910" src="https://github.com/user-attachments/assets/d09e3b9a-ea8b-4d52-a605-d35d75cca13e" />
+
+<img width="1425" height="792" alt="Captura de tela 2025-10-07 181029" src="https://github.com/user-attachments/assets/364691cc-9d47-4bee-ae28-1eb4787ec56f" />
